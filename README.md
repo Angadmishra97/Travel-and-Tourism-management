@@ -11,7 +11,7 @@ A Java-based Travel and Tourism Management application that provides a user-frie
 | Backend      | Core Java (OOP)    |
 | Database     | MySQL              |
 | Connectivity | JDBC               |
-| IDE          | IntelliJ / NetBeans / VS Code |
+| IDE          | IntelliJ |
 
 ---
 
